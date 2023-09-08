@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 /**
-* main - entry point of the program
+* main : entry point 
 *
-* stdio.h is an header file. This is an essential part of c programming
+* Description : print "Programming is like building a multilingual puzzle"
 *
-* Description - print "Programming is like building a multilingual puzzle
-*
-* return -should always be 0
+* return: 0 (success)
 */
 int main(void)
 {
