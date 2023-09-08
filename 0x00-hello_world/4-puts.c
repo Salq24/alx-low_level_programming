@@ -1,16 +1,14 @@
 #include <stdio.h>
 
 /**
-* main : entry point 
-*
-* stdio.h : Header file. Very important in c
-*
-* Description : print "Programming is like building a multilingual puzzle"
-*
-* return: 0 (success)
-*/
+ * main : Prints "Programming is like building a multilingual
+ *                puzzle.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+
 	return (0);
 }
