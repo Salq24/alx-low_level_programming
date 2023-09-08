@@ -3,8 +3,9 @@
 /**
 * main : entry point
 *
-* description : "with proper grammar, but the outcome is a piece of art,", followed by a new line.
-
+* description : "with proper grammar, but the outcome is a piece of art,", 
+*followed by a new line.
+*
 * return : always 0
 */
 int main(void)
