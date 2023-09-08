@@ -4,6 +4,7 @@
 *main is the entry point of the program
 *stdio.h is an header file. This is an essential
 *part of c programming
+*return -should always be 0
 */
 int main(void)
 {
