@@ -3,6 +3,8 @@
 /**
 * main : entry point 
 *
+* stdio.h : Header file. Very important in c
+*
 * Description : print "Programming is like building a multilingual puzzle"
 *
 * return: 0 (success)
