@@ -10,16 +10,16 @@
 */
 int main(void)
 {
-/*First, declare a variable and init it*/
+    /*First, declare a variable and init it*/
 
-char alphabeth = 'a';
+    char alphabeth = 'a';
 
-while (alphabeth <= 'z')
-{
+    while (alphabeth <= 'z')
+    {
 	putchar(alphabeth);
 	alphabeth++;
-}
+    }
 
-putchar('\n');
-return (0);
+    putchar('\n');
+    return (0);
 }
