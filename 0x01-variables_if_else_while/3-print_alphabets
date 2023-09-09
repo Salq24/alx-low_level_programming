@@ -14,7 +14,7 @@ char lower,upper;
 lower = 'a';
 upper = 'A';
 
-while (lower <= 'a')
+while (lower <= 'z')
 {
 	putchar(lower);
 	lower++;
