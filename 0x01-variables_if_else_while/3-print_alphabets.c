@@ -9,7 +9,7 @@
 */
 int main(void)
 {
-char lower,upper;
+char lower, upper;
 
 lower = 'a';
 upper = 'A';
