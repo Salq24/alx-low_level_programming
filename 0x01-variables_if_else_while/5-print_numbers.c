@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main: Entry point
+* main: Print all single digit numbers.
 * description: This project requires us to print all
 * single digit numbers, i.e , numbers less than 10,
 * including zero. This can be done using for and while
@@ -14,7 +14,7 @@
 *return : This is always 0 which means success
 */
 
-int main(void)
+int main(void) /*This is the entry point*/
 {
 	int n = 48;
 
