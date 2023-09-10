@@ -19,7 +19,7 @@ while (n < 48)
 	if (n < 10)
 	putchar(n + '0');
 	else if (n > 41)
-	putchar(n -10 + 'a');
+	putchar(n -10 + 'A');
 	n++;
 }
 putchar(10);
