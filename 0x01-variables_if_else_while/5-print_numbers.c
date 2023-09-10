@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
-* main: Print all single digit numbers.
+* main: Print all single digit numbers. The numbers
+* must be less than 10 and 0 is included.
+*
 * description: This project requires us to print all
 * single digit numbers, i.e , numbers less than 10,
 * including zero. This can be done using for and while
@@ -14,7 +16,9 @@
 *return : This is always 0 which means success
 */
 
-int main(void) /*This is the entry point*/
+int main(void) /*This is the entry point of our
+ program. It is very necessary in c lang*/
+
 {
 	int n = 48;
 
