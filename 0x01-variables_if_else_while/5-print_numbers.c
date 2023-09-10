@@ -16,8 +16,8 @@
 *return : This is always 0 which means success
 */
 
-int main(void) /*This is the entry point of our
- program. It is very necessary in c lang*/
+int main(void)
+/*This is the entry point of our program. Essential in c */
 
 {
 	int n = 48;
