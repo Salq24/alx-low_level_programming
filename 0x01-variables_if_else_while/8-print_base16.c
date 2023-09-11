@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*Main : Print all numbers of base 16 in lower case.
+*main - Print all numbers of base 16 in lower case.
 *
-*Description : This project deals with printing all numbers
+*Description - This project deals with printing all numbers
 *of base 16 in lowercase. To get base 16 numbers, use %x.
 *%X prints them in uppercase letters. Putchar is also a
 *requirement here and we can also use printf.
