@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*main- Print all single digit numbers. 
+*main- Print all single digit numbers.
 *
 *Description - This project requires us to print all
 * single digit numbers, i.e , numbers less than 10,
