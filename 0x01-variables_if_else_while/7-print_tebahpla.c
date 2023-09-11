@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
-* Main: Print alphabet in reverse, followed by a new line
+*main - Print alphabet in reverse, followed by a new line
 *
-*Description : This project deals with printing alphabet in reverse,
-* i.e, starting from z to a in lower case. Only putchar
-* can be used for this. It is a project requirement. Printf
-* works as well tho.
+*Description - This project deals with printing alphabet in reverse,
+*i.e, starting from z to a in lower case. Only putchar
+*can be used for this. It is a project requirement. Printf
+*works as well tho.
 *
-* Return : Always 0, shows success.
+*Return: Always 0, shows success.
 *
 */
 
