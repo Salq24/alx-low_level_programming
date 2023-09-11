@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
-*Main : Entry point
+*main - Entry point
 *
-*Description:  prints the size of various types
+*Description - prints the size of various types
 *on the computer it is compiled and run on.
 *
-*Return : always 0(success)
+*Return: always 0(success)
 */
 
 int main(void)
