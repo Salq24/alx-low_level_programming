@@ -3,13 +3,13 @@
 #include <stdio.h>
 
 /**
-* main : determine if last digit is greater than
-* 5 or less thsn 5
-*description : print the last digit of the number
-* stored in the variable, n
+*main - determine if last digit is greater than
+*5 or less thsn 5
 *
-* return : always 0 (success)
+*Description - print the last digit of the number
+*stored in the variable, n
 *
+*Return: always 0 (success)
 */
 int main(void)
 {
