@@ -3,11 +3,13 @@
 #include <stdio.h>
 
 /**
-* main - determine whether number is positive
-* or negative
-* description - print whether the number stored in
-* the variable n is positive or negative.
-* return - always 0(success)
+*main - determine whether number is positive
+*or negative
+*
+*Description - print whether the number stored in
+*the variable n is positive or negative.
+*
+*Return: always 0(success)
 */
 
 int main(void)
