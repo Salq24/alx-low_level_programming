@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
-* main: Write a program that prints all possible different
+*main - Write a program that prints all possible different
 * combinations of three digits.
 *
-* description:
-* Numbers must be separated by ,, followed by a space
+*Description - Numbers must be separated followed by a space
 * The three digits must be different
 * Print only the smallest combination of the digits
 * Numbers should be printed in ascending order, with three digits
@@ -21,7 +20,7 @@
 *The ASCII coding starts from 048 (which is 0). Then
 * 049 (1) and on and on. Also includes alphabets.
 *
-*return : This is always 0 which means success
+*Return: This is always 0 which means success
 */
 
 int main(void)
