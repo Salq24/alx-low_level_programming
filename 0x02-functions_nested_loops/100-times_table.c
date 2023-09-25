@@ -3,16 +3,14 @@
 /**
 *print_times_table - prints the n times table, from 0
 *
-*@n - integer
+*@n: integer
 *
 *Return: Values
 */
 
 void print_times_table(int n)
-
 {
 	int a, b, c;
-
 	if (n >= 0 && n <= 14)
 	{
 	for (a = 0; a <= n; a++)
@@ -46,12 +44,10 @@ void print_times_table(int n)
 			_putchar(32);
 		}
 		_putchar(c + '0');
-
 	}
 	}
 	_putchar('\n');
 	}
 	}
 }
-
 	
