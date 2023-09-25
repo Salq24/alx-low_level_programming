@@ -11,7 +11,7 @@
 int main(void)
 {
 	int cnt;
-	unsigned long fibo1 = 0, fibo2= 1, sum;
+	unsigned long fibo1 = 0, fibo2 = 1, sum;
 	unsigned long fibo1_half1, fibo1_half2, fibo2_half1, fibo2_half2;
 	unsigned long half1, half2;
 
