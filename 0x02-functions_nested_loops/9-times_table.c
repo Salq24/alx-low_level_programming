@@ -20,12 +20,12 @@ c = a * b;
 if (c >= 10)
 {
 d = c % 10;
-e = (c - d)/ 10;
+e = (c - d) / 10;
 
- _putchar(44);
+_putchar(44);
 _putchar(32);
 _putchar(e + '0');
- _putchar(d + '0');
+_putchar(d + '0');
 }
 else
 {
@@ -36,7 +36,7 @@ _putchar(32);
 _putchar(32);
 }
 
- _putchar(c + '0');
+_putchar(c + '0');
 }
 }
 
