@@ -20,7 +20,7 @@ int main(void)
 
 	x++;
 	}
-	printf("%d\n", z);
+	printf("%d\n", y);
 	return (0);
 }
 
