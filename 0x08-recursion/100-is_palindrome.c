@@ -24,7 +24,7 @@ int _strlen(char *s)
  * Return: 1 if true, else, 0
  */
 
-int checks(char *s, int len, int cnt)
+int checks(char *str, int len, int cnt)
 {
 	if (cnt >= len)
 		return (1);
