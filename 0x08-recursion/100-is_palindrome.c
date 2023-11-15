@@ -18,7 +18,7 @@ int _strlen(char *s)
 
 /**
  * checks - checks for is_palidrone
- * @s: string
+ * @str: string
  * @len: string length
  * @cnt: string count
  * Return: 1 if true, else, 0
