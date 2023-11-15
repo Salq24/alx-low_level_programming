@@ -9,7 +9,7 @@
  * Return: natural sqrt
  */
 
-int _sqrt_recursion(int n, int x)
+int _sqrt_recursion(int n)
 
 {
 	int sqrt = x * x;
