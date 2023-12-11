@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * free_lust - frees a list_t list
+ * free_list - frees a list_t list
  * @head: list to be fred
  */
 
