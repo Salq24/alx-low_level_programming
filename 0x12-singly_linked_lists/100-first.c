@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include "lists.h"
+
+void printl(void)__attribute__ ((constructor));
 
 /**
  * printl - prints before the main
