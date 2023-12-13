@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdio.h>
 
 void printl(void)__attribute__ ((constructor));
 
