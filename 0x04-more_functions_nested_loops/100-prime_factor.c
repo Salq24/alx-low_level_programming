@@ -4,7 +4,7 @@
 #include <math.h>
 
 /**
- * main - finds and prints the largest prime factor 
+ * main - finds and prints the largest prime factor
  * of the number 612852475143
  *
  * Return: number
