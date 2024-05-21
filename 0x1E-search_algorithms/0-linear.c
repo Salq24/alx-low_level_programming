@@ -1,5 +1,15 @@
 #include "search_algos.h"
 
+/**
+ * linear_search - searches for a val in an array of
+ * ints using linear search alg
+ *
+ * @array: pointer to the first elem
+ * @size: num of elem in d array
+ * @value: value of d array
+ * Return: an array
+ */
+
 int linear_search(int *array, size_t size, int value)
 {
 	size_t x = 0;
